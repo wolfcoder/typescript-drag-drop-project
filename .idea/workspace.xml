@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b63655-ac22-46f1-b146-5b987ae1ca00" name="Default Changelist" comment="123. Interacting with DOM Elements">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="14b63655-ac22-46f1-b146-5b987ae1ca00" name="Default Changelist" comment="126. Creating a Re-Usable Validation Functionality" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604002887972</updated>
-      <workItem from="1604002888994" duration="1605000" />
+      <workItem from="1604002888994" duration="1975000" />
     </task>
     <task id="LOCAL-00001" summary="122. Dom Element Selection &amp; OOP Rendering">
       <created>1604004313783</created>
@@ -102,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604004407521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="124. Creating &amp; Using an &quot;Autobind&quot; Decorator">
+      <created>1604004569970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604004569970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="125. Fetching user input">
+      <created>1604004702698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604004702698</updated>
+    </task>
+    <task id="LOCAL-00005" summary="126. Creating a Re-Usable Validation Functionality">
+      <created>1604004858864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604004858864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +143,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="122. Dom Element Selection &amp; OOP Rendering" />
     <MESSAGE value="123. Interacting with DOM Elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="123. Interacting with DOM Elements" />
+    <MESSAGE value="124. Creating &amp; Using an &quot;Autobind&quot; Decorator" />
+    <MESSAGE value="125. Fetching user input" />
+    <MESSAGE value="126. Creating a Re-Usable Validation Functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="126. Creating a Re-Usable Validation Functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="790" y="427" key="Github.ShareDialog" timestamp="1604003999659">
@@ -155,9 +173,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604004417266" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604004408977">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604004861676">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604004408977" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604004861676" />
   </component>
 </project>
