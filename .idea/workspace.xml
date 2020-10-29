@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b63655-ac22-46f1-b146-5b987ae1ca00" name="Default Changelist" comment="130. Filtering Projects with Enums" />
+    <list default="true" id="14b63655-ac22-46f1-b146-5b987ae1ca00" name="Default Changelist" comment="133. Using a getter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604002887972</updated>
-      <workItem from="1604002888994" duration="2627000" />
+      <workItem from="1604002888994" duration="2947000" />
     </task>
     <task id="LOCAL-00001" summary="122. Dom Element Selection &amp; OOP Rendering">
       <created>1604004313783</created>
@@ -145,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604005520373</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="131. Adding Inheritance &amp; Generics">
+      <created>1604005602792</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604005602792</updated>
+    </task>
+    <task id="LOCAL-00011" summary="132. Rendering Project Items with a Class">
+      <created>1604005709534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604005709534</updated>
+    </task>
+    <task id="LOCAL-00012" summary="133. Using a getter">
+      <created>1604005811237</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604005811237</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +199,10 @@
     <MESSAGE value="128. Managing Application State With Singletons" />
     <MESSAGE value="129. More Classes &amp; Custom type" />
     <MESSAGE value="130. Filtering Projects with Enums" />
-    <option name="LAST_COMMIT_MESSAGE" value="130. Filtering Projects with Enums" />
+    <MESSAGE value="131. Adding Inheritance &amp; Generics" />
+    <MESSAGE value="132. Rendering Project Items with a Class" />
+    <MESSAGE value="133. Using a getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="133. Using a getter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="790" y="427" key="Github.ShareDialog" timestamp="1604003999659">
@@ -205,9 +229,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604004417266" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604005521681">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604005812645">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604005521681" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604005812645" />
   </component>
 </project>
